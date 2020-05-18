@@ -1,0 +1,67 @@
+C:\Users\Samsung\Documents\Curso EducafroTech\LOJA AGRIÕES\Loja por Tutorial Youtube\Loja_Iniciaç\Loja_Iniciaç\obj\Debug\Loja_Iniciaç.csprojAssemblyReference.cache
+C:\Users\Samsung\Documents\Curso EducafroTech\LOJA AGRIÕES\Loja por Tutorial Youtube\Loja_Iniciaç\Loja_Iniciaç\obj\Debug\Loja_Iniciaç.Menu.resources
+C:\Users\Samsung\Documents\Curso EducafroTech\LOJA AGRIÕES\Loja por Tutorial Youtube\Loja_Iniciaç\Loja_Iniciaç\obj\Debug\Loja_Iniciaç.Properties.Resources.resources
+C:\Users\Samsung\Documents\Curso EducafroTech\LOJA AGRIÕES\Loja por Tutorial Youtube\Loja_Iniciaç\Loja_Iniciaç\obj\Debug\Loja_Iniciaç.csproj.GenerateResource.cache
+C:\Users\Samsung\Documents\Curso EducafroTech\LOJA AGRIÕES\Loja por Tutorial Youtube\Loja_Iniciaç\Loja_Iniciaç\obj\Debug\Loja_Iniciaç.frm_Comprar.resources
+C:\Users\Samsung\Documents\Curso EducafroTech\LOJA AGRIÕES\Loja por Tutorial Youtube\Loja_Iniciaç\Loja_Iniciaç\obj\Debug\Loja_Iniciaç.frm_Consultar.resources
+C:\Users\Samsung\Documents\Curso EducafroTech\LOJA AGRIÕES\Loja por Tutorial Youtube\Loja_Iniciaç\Loja_Iniciaç\obj\Debug\Loja_Iniciaç.frm_CadProdutos.resources
+C:\Users\Samsung\Documents\Curso EducafroTech\LOJA AGRIÕES\Loja por Tutorial Youtube\Loja_Iniciaç\Loja_Iniciaç\bin\Debug\Loja_Iniciaç.exe.config
+C:\Users\Samsung\Documents\Curso EducafroTech\LOJA AGRIÕES\Loja por Tutorial Youtube\Loja_Iniciaç\Loja_Iniciaç\bin\Debug\Loja_Iniciaç.exe
+C:\Users\Samsung\Documents\Curso EducafroTech\LOJA AGRIÕES\Loja por Tutorial Youtube\Loja_Iniciaç\Loja_Iniciaç\bin\Debug\Loja_Iniciaç.pdb
+C:\Users\Samsung\Documents\Curso EducafroTech\LOJA AGRIÕES\Loja por Tutorial Youtube\Loja_Iniciaç\Loja_Iniciaç\obj\Debug\Loja_Iniciaç.exe
+C:\Users\Samsung\Documents\Curso EducafroTech\LOJA AGRIÕES\Loja por Tutorial Youtube\Loja_Iniciaç\Loja_Iniciaç\obj\Debug\Loja_Iniciaç.pdb
+C:\Users\Samsung\Documents\Curso EducafroTech\LOJA AGRIÕES\Loja por Tutorial Youtube\Loja_Iniciaç\Loja_Iniciaç\obj\Debug\Loja_Iniciaç.Form1.resources
+C:\Users\Samsung\Documents\Curso EducafroTech\LOJA AGRIÕES\Loja por Tutorial Youtube\Loja_Iniciaç\Loja_Iniciaç\obj\Debug\Loja_Iniciaç.Tela_Login.resources
+C:\Users\EDUCAFRO\OneDrive\root agrioes\C# Modo Forms\LOJA AGRIÕES - Versão 3\Loja_Iniciaç\Loja_Iniciaç\obj\Debug\Loja_Iniciaç.csprojAssemblyReference.cache
+C:\Users\EDUCAFRO\OneDrive\root agrioes\C# Modo Forms\LOJA AGRIÕES - Versão 3\Loja_Iniciaç\Loja_Iniciaç\obj\Debug\Loja_Iniciaç.frm_Comprar.resources
+C:\Users\EDUCAFRO\OneDrive\root agrioes\C# Modo Forms\LOJA AGRIÕES - Versão 3\Loja_Iniciaç\Loja_Iniciaç\obj\Debug\Loja_Iniciaç.Form1.resources
+C:\Users\EDUCAFRO\OneDrive\root agrioes\C# Modo Forms\LOJA AGRIÕES - Versão 3\Loja_Iniciaç\Loja_Iniciaç\obj\Debug\Loja_Iniciaç.frm_Consultar.resources
+C:\Users\EDUCAFRO\OneDrive\root agrioes\C# Modo Forms\LOJA AGRIÕES - Versão 3\Loja_Iniciaç\Loja_Iniciaç\obj\Debug\Loja_Iniciaç.Menu.resources
+C:\Users\EDUCAFRO\OneDrive\root agrioes\C# Modo Forms\LOJA AGRIÕES - Versão 3\Loja_Iniciaç\Loja_Iniciaç\obj\Debug\Loja_Iniciaç.frm_CadProdutos.resources
+C:\Users\EDUCAFRO\OneDrive\root agrioes\C# Modo Forms\LOJA AGRIÕES - Versão 3\Loja_Iniciaç\Loja_Iniciaç\obj\Debug\Loja_Iniciaç.Properties.Resources.resources
+C:\Users\EDUCAFRO\OneDrive\root agrioes\C# Modo Forms\LOJA AGRIÕES - Versão 3\Loja_Iniciaç\Loja_Iniciaç\obj\Debug\Loja_Iniciaç.Tela_Login.resources
+C:\Users\EDUCAFRO\OneDrive\root agrioes\C# Modo Forms\LOJA AGRIÕES - Versão 3\Loja_Iniciaç\Loja_Iniciaç\obj\Debug\Loja_Iniciaç.csproj.GenerateResource.cache
+C:\Users\EDUCAFRO\OneDrive\root agrioes\C# Modo Forms\LOJA AGRIÕES - Versão 3\Loja_Iniciaç\Loja_Iniciaç\obj\Debug\Loja_Iniciaç.exe
+C:\Users\EDUCAFRO\OneDrive\root agrioes\C# Modo Forms\LOJA AGRIÕES - Versão 3\Loja_Iniciaç\Loja_Iniciaç\obj\Debug\Loja_Iniciaç.pdb
+C:\Users\gcsdu\OneDrive\root agrioes\C# Modo Forms\LOJA AGRIÕES - Versão 3\Loja_Iniciaç\Loja_Iniciaç\bin\Debug\Loja_Iniciaç.exe.config
+C:\Users\gcsdu\OneDrive\root agrioes\C# Modo Forms\LOJA AGRIÕES - Versão 3\Loja_Iniciaç\Loja_Iniciaç\obj\Debug\Loja_Iniciaç.exe
+C:\Users\gcsdu\OneDrive\root agrioes\C# Modo Forms\LOJA AGRIÕES - Versão 3\Loja_Iniciaç\Loja_Iniciaç\obj\Debug\Loja_Iniciaç.pdb
+C:\Users\gcsdu\OneDrive\root agrioes\C# Modo Forms\LOJA AGRIÕES - Versão 3\Loja_Iniciaç\Loja_Iniciaç\obj\Debug\Loja_Iniciaç.csprojResolveAssemblyReference.cache
+C:\Users\gcsdu\OneDrive\root agrioes\C# Modo Forms\LOJA AGRIÕES - Versão 3\Loja_Iniciaç\Loja_Iniciaç\obj\Debug\Loja_Iniciaç.frm_Comprar.resources
+C:\Users\gcsdu\OneDrive\root agrioes\C# Modo Forms\LOJA AGRIÕES - Versão 3\Loja_Iniciaç\Loja_Iniciaç\obj\Debug\Loja_Iniciaç.Form1.resources
+C:\Users\gcsdu\OneDrive\root agrioes\C# Modo Forms\LOJA AGRIÕES - Versão 3\Loja_Iniciaç\Loja_Iniciaç\obj\Debug\Loja_Iniciaç.frm_Consultar.resources
+C:\Users\gcsdu\OneDrive\root agrioes\C# Modo Forms\LOJA AGRIÕES - Versão 3\Loja_Iniciaç\Loja_Iniciaç\obj\Debug\Loja_Iniciaç.Menu.resources
+C:\Users\gcsdu\OneDrive\root agrioes\C# Modo Forms\LOJA AGRIÕES - Versão 3\Loja_Iniciaç\Loja_Iniciaç\obj\Debug\Loja_Iniciaç.frm_CadProdutos.resources
+C:\Users\gcsdu\OneDrive\root agrioes\C# Modo Forms\LOJA AGRIÕES - Versão 3\Loja_Iniciaç\Loja_Iniciaç\obj\Debug\Loja_Iniciaç.Properties.Resources.resources
+C:\Users\gcsdu\OneDrive\root agrioes\C# Modo Forms\LOJA AGRIÕES - Versão 3\Loja_Iniciaç\Loja_Iniciaç\obj\Debug\Loja_Iniciaç.Tela_Login.resources
+C:\Users\gcsdu\OneDrive\root agrioes\C# Modo Forms\LOJA AGRIÕES - Versão 3\Loja_Iniciaç\Loja_Iniciaç\obj\Debug\Loja_Iniciaç.csproj.GenerateResource.Cache
+C:\Users\HP\OneDrive\root agrioes\C# Modo Forms\LOJA AGRIÕES - Versão 3\Loja_Iniciaç\Loja_Iniciaç\bin\Debug\Loja_Iniciaç.exe.config
+C:\Users\HP\OneDrive\root agrioes\C# Modo Forms\LOJA AGRIÕES - Versão 3\Loja_Iniciaç\Loja_Iniciaç\bin\Debug\Loja_Iniciaç.exe
+C:\Users\HP\OneDrive\root agrioes\C# Modo Forms\LOJA AGRIÕES - Versão 3\Loja_Iniciaç\Loja_Iniciaç\bin\Debug\Loja_Iniciaç.pdb
+C:\Users\HP\OneDrive\root agrioes\C# Modo Forms\LOJA AGRIÕES - Versão 3\Loja_Iniciaç\Loja_Iniciaç\obj\Debug\Loja_Iniciaç.csprojAssemblyReference.cache
+C:\Users\HP\OneDrive\root agrioes\C# Modo Forms\LOJA AGRIÕES - Versão 3\Loja_Iniciaç\Loja_Iniciaç\obj\Debug\Loja_Iniciaç.frm_Comprar.resources
+C:\Users\HP\OneDrive\root agrioes\C# Modo Forms\LOJA AGRIÕES - Versão 3\Loja_Iniciaç\Loja_Iniciaç\obj\Debug\Loja_Iniciaç.Form1.resources
+C:\Users\HP\OneDrive\root agrioes\C# Modo Forms\LOJA AGRIÕES - Versão 3\Loja_Iniciaç\Loja_Iniciaç\obj\Debug\Loja_Iniciaç.frm_Consultar.resources
+C:\Users\HP\OneDrive\root agrioes\C# Modo Forms\LOJA AGRIÕES - Versão 3\Loja_Iniciaç\Loja_Iniciaç\obj\Debug\Loja_Iniciaç.Menu.resources
+C:\Users\HP\OneDrive\root agrioes\C# Modo Forms\LOJA AGRIÕES - Versão 3\Loja_Iniciaç\Loja_Iniciaç\obj\Debug\Loja_Iniciaç.frm_CadProdutos.resources
+C:\Users\HP\OneDrive\root agrioes\C# Modo Forms\LOJA AGRIÕES - Versão 3\Loja_Iniciaç\Loja_Iniciaç\obj\Debug\Loja_Iniciaç.Properties.Resources.resources
+C:\Users\HP\OneDrive\root agrioes\C# Modo Forms\LOJA AGRIÕES - Versão 3\Loja_Iniciaç\Loja_Iniciaç\obj\Debug\Loja_Iniciaç.Tela_Login.resources
+C:\Users\HP\OneDrive\root agrioes\C# Modo Forms\LOJA AGRIÕES - Versão 3\Loja_Iniciaç\Loja_Iniciaç\obj\Debug\Loja_Iniciaç.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\root agrioes\C# Modo Forms\LOJA AGRIÕES - Versão 3\Loja_Iniciaç\Loja_Iniciaç\obj\Debug\Loja_Iniciaç.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\root agrioes\C# Modo Forms\LOJA AGRIÕES - Versão 3\Loja_Iniciaç\Loja_Iniciaç\obj\Debug\Loja_Iniciaç.exe
+C:\Users\HP\OneDrive\root agrioes\C# Modo Forms\LOJA AGRIÕES - Versão 3\Loja_Iniciaç\Loja_Iniciaç\obj\Debug\Loja_Iniciaç.pdb
+C:\Users\HP\Documents\LOJA AGRIÕES - Versão 3\Loja_Iniciaç\Loja_Iniciaç\bin\Debug\Loja_Iniciaç.exe.config
+C:\Users\HP\Documents\LOJA AGRIÕES - Versão 3\Loja_Iniciaç\Loja_Iniciaç\obj\Debug\Loja_Iniciaç.exe
+C:\Users\HP\Documents\LOJA AGRIÕES - Versão 3\Loja_Iniciaç\Loja_Iniciaç\obj\Debug\Loja_Iniciaç.pdb
+C:\Users\HP\Documents\LOJA AGRIÕES - Versão 3\Loja_Iniciaç\Loja_Iniciaç\bin\Debug\Loja_Iniciaç.exe
+C:\Users\HP\Documents\LOJA AGRIÕES - Versão 3\Loja_Iniciaç\Loja_Iniciaç\bin\Debug\Loja_Iniciaç.pdb
+C:\Users\HP\Documents\LOJA AGRIÕES - Versão 3\Loja_Iniciaç\Loja_Iniciaç\obj\Debug\Loja_Iniciaç.frm_Comprar.resources
+C:\Users\HP\Documents\LOJA AGRIÕES - Versão 3\Loja_Iniciaç\Loja_Iniciaç\obj\Debug\Loja_Iniciaç.Form1.resources
+C:\Users\HP\Documents\LOJA AGRIÕES - Versão 3\Loja_Iniciaç\Loja_Iniciaç\obj\Debug\Loja_Iniciaç.frm_Consultar.resources
+C:\Users\HP\Documents\LOJA AGRIÕES - Versão 3\Loja_Iniciaç\Loja_Iniciaç\obj\Debug\Loja_Iniciaç.Menu.resources
+C:\Users\HP\Documents\LOJA AGRIÕES - Versão 3\Loja_Iniciaç\Loja_Iniciaç\obj\Debug\Loja_Iniciaç.frm_CadProdutos.resources
+C:\Users\HP\Documents\LOJA AGRIÕES - Versão 3\Loja_Iniciaç\Loja_Iniciaç\obj\Debug\Loja_Iniciaç.Properties.Resources.resources
+C:\Users\HP\Documents\LOJA AGRIÕES - Versão 3\Loja_Iniciaç\Loja_Iniciaç\obj\Debug\Loja_Iniciaç.Tela_Login.resources
+C:\Users\HP\Documents\LOJA AGRIÕES - Versão 3\Loja_Iniciaç\Loja_Iniciaç\obj\Debug\Loja_Iniciaç.csproj.GenerateResource.Cache
+C:\Users\HP\Documents\LOJA AGRIÕES - Versão 3\Loja_Iniciaç\Loja_Iniciaç\obj\Debug\Loja_Iniciaç.csprojAssemblyReference.cache
+C:\Users\HP\Documents\LOJA AGRIÕES - Versão 3\Loja_Iniciaç\Loja_Iniciaç\obj\Debug\Loja_Iniciaç.csproj.CoreCompileInputs.cache
